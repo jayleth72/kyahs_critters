@@ -230,9 +230,13 @@ Navbar
 .twitter-icon {
   color: #00acee;
 }
-.dribble-icon {
-  color: #ea4c89;
+.instagram-icon {
+  color: #e95950;
 }
+.youtube-icon {
+  color: #c4302b;
+}
+
 @media screen and (min-width: 800px) {
   .toggle-btn {
     display: none;
